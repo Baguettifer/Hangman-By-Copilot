@@ -1,3 +1,8 @@
+"A simple hangman game coded by Baguettifer and Copilot."
+
+"(github.com/baguettifer/)"
+"(copilot.github.com/)"
+
 import random
 
 random_words = ["python", "java", "kotlin", "javascript",]
