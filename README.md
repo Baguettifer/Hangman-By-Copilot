@@ -1,2 +1,2 @@
 # Hangman-By-Copilot
-Hangman written in python, using copilot
+Hangman written in python, mostly using github copilot
